@@ -1,2 +1,0 @@
-# PocketBook
-Created with CodeSandbox
